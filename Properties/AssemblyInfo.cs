@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SimpleMan.AutoDraw")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("SimpleMan AutoDraw")]
+[assembly: AssemblyDescription("Draws given image pixel by pixel in MS Paint")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("SimpleMan.AutoDraw")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2018")]
+[assembly: AssemblyCompany("SimpleMan")]
+[assembly: AssemblyProduct("SimpleMan AutoDraw")]
+[assembly: AssemblyCopyright("Copyright © SimpleMan 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
