@@ -50,8 +50,8 @@ namespace SimpleMan.AutoDraw
                     //    && Convert.ToInt32(pixelColor.R.ToString("D3")) > 200)
                     //    DrawAPixel();
 
-                    if (Convert.ToInt32(pixelColor.R.ToString("D3")) < 30 && Convert.ToInt32(pixelColor.R.ToString("D3")) < 30
-                        && Convert.ToInt32(pixelColor.R.ToString("D3")) < 30)
+                    if (Convert.ToInt32(pixelColor.R.ToString("D3")) < 30 && Convert.ToInt32(pixelColor.G.ToString("D3")) < 30
+                        && Convert.ToInt32(pixelColor.B.ToString("D3")) < 30)
                         DrawAPixel();
                 }
 

@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SimpleMan AutoDraw")]
-[assembly: AssemblyDescription("Draws given image pixel by pixel in MS Paint")]
+[assembly: AssemblyDescription("Draws the given image pixel by pixel in MS Paint")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("SimpleMan")]
 [assembly: AssemblyProduct("SimpleMan AutoDraw")]
